@@ -1,10 +1,8 @@
-<!-- STEP A (later): remove this line and the "-->" line below once dark.svg and light.svg are uploaded
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prithviraj-Dhavan/Prithviraj-Dhavan/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prithviraj-Dhavan/Prithviraj-Dhavan/main/light.svg">
   <img alt="Prithviraj Dhavan" src="https://raw.githubusercontent.com/Prithviraj-Dhavan/Prithviraj-Dhavan/main/light.svg">
 </picture>
--->
 
 <h1 align="center">Hi, I'm Prithviraj Dhavan 👋</h1>
 <p align="center">Full-Stack Developer · Building web apps and AI-powered products</p>
@@ -16,7 +14,6 @@
 <img width="49%" src="https://github-readme-stats-sand-six-54.vercel.app/api/top-langs/?username=Prithviraj-Dhavan&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
 
-<!-- STEP C (later): remove this line and the "-->" line below only after the snake Action shows a green tick
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prithviraj-Dhavan/Prithviraj-Dhavan/output/github-snake-dark.svg" />
