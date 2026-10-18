@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prithviraj-Dhavan/Prithviraj-Dhavan/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prithviraj-Dhavan/Prithviraj-Dhavan/main/light.svg">
-  <img alt="Prithviraj Dhavan" src="https://raw.githubusercontent.com/Prithviraj-Dhavan/Prithviraj-Dhavan/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prithviraj-Dhavan/Prithviraj-Dhavan/main/dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prithviraj-Dhavan/Prithviraj-Dhavan/main/light.svg?v=2">
+  <img alt="Prithviraj Dhavan" src="https://raw.githubusercontent.com/Prithviraj-Dhavan/Prithviraj-Dhavan/main/light.svg?v=2">
 </picture>
 
 <h1 align="center">Hi, I'm Prithviraj Dhavan 👋</h1>
