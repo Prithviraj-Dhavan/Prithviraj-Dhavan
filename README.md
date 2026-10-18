@@ -26,7 +26,6 @@
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Prithviraj-Dhavan/Prithviraj-Dhavan/output/github-snake.svg" />
 </picture>
 </div>
--->
 
 <br/>
 
